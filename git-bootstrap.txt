@@ -1,0 +1,5 @@
+# Bootstrap
+
+usar o clone no GIT
+
+git clone - endereço https do clone
